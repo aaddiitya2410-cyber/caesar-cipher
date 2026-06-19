@@ -28,5 +28,5 @@ elif choice == "2":
     print(" Decrypted code:", result)
 
 else:
-    print("Wrong choice! Sirf 1 ya 2 likhein.")
+    print("Wrong choice! Sirf 1 ya 2 likhe.")
 
